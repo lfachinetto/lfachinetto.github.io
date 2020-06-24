@@ -1,0 +1,20 @@
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\bin\Debug\Homebridge.exe.config
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\bin\Debug\Homebridge.exe
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\bin\Debug\Homebridge.pdb
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\obj\Debug\Homebridge.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\obj\Debug\Homebridge.Form1.resources
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\obj\Debug\Homebridge.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\obj\Debug\Homebridge.csproj.GenerateResource.Cache
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\obj\Debug\Homebridge.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\obj\Debug\Homebridge.exe
+C:\Users\Lucas\source\repos\Homebridge\Homebridge\obj\Debug\Homebridge.pdb
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\bin\Debug\Homebridge.exe.config
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\bin\Debug\Homebridge.exe
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\obj\Debug\Homebridge.Form1.resources
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\obj\Debug\Homebridge.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\obj\Debug\Homebridge.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\obj\Debug\Homebridge.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\obj\Debug\Homebridge.exe
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\obj\Debug\Homebridge.pdb
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\bin\Debug\Homebridge.pdb
+D:\Documentos\Visual Studio 2017\Projects\Homebridge\Homebridge\obj\Debug\Homebridge.csprojAssemblyReference.cache

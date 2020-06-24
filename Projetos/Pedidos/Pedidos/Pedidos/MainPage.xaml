@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Pedidos"
+             x:Class="Pedidos.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <Button Text="Limpar" Clicked="Limpar" />
+            <Label Text="Empresa" />
+            <Picker Title="Selecione uma empresa" ItemsSource="{x:Static local:MainPage.Empresas}" SelectedItem="{Binding Empresa, Mode=TwoWay}" />
+            <Label Text="Cliente" />
+            <Entry Text="{Binding Cliente, Mode=TwoWay}" />
+            <Label Text="Cidade" />
+            <Entry Text="{Binding Cidade, Mode=TwoWay}" />
+            <Label Text="Condições" />
+            <Entry Text="{Binding Condições , Mode=TwoWay}" />
+            <Label Text="Frete" />
+            <Entry Text="{Binding Frete, Mode=TwoWay}" />
+            <Label Text="Itens" />
+            <Button Text="Lista de itens" Clicked="AbrirLista" />
+            <Label Text="Total (sem impostos e sem frete)" />
+            <Label Text="{Binding Total, StringFormat='{0:C2}', Mode=TwoWay}" />
+            <Button Text="Gerar cotação" Clicked="GerarCotação" />
+            <Button Text="Gerar pedido" Clicked="GerarPedido" />
+        </StackLayout>
+    </ScrollView>
+
+
+</ContentPage>

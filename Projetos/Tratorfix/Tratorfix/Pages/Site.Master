@@ -1,0 +1,138 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Tratorfix.Pages.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Tratorfix Parafusos</title>
+
+    <meta content="A Tratorfix Comércio de Parafusos dispõe de uma linha completa de parafusos, ferragens, pinos, fixadores e peças agrícolas. Agora atacado e varejo." name="description">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/Images/Icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/Content/Images/Icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/Content/Images/Icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/Content/Images/Icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/Content/Images/Icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/Content/Images/Icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/Content/Images/Icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/Content/Images/Icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/Content/Images/Icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/Content/Images/Icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/Content/Images/Icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/Content/Images/Icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/Content/Images/Icon/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="google-site-verification" content="PMJE4-_90hkXmGzTP8AozWmoxlgDDq1ya9lFsdJnTDU" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132987665-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132987665-1');
+</script>
+
+    <link href="/Content/bootstrap.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery.min.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+
+    <%: System.Web.Optimization.Scripts.Render("~/bundles/validation") %>
+</head>
+<body>
+    <form id="form1" runat="server">        
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WG76DZF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+        <div>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="height: 100px;z-index:9999;">
+            <a class="navbar-brand" href="<%= HomeUrl %>">
+                <img src="/Content/Images/Logo Tratorfix.png" class="d-inline-block align-top" style="height: 100px" alt="Tratorfix" /></a>
+            <!-- <a class="navbar-brand" href="/Pages/Home.aspx">Tratorfix</a> -->
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent" style="background: #F8F8F8;">
+
+                <ul class="navbar-nav mr-auto">
+
+                    <li class="nav-item active">
+                        <a class="nav-link" href="<%= HomeUrl %>">Início <span class="sr-only">(atual)</span></a>
+                    </li>
+
+                    <!--<li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="/Pages/Lista.aspx" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Produtos
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Parafusos</a>
+                            <a class="dropdown-item" href="#">Porcas</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Chaves</a>
+                        </div>
+                    </li>-->
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= ListaUrl %>">Produtos</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= OrçamentoUrl %>">Orçamento</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= SobreUrl %>">Sobre</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= ContatoUrl %>">Contato</a>
+                    </li>
+
+                    <!--<li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Área do cliente</a>
+                    </li>-->
+                </ul>
+                <!--
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"/>
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+    </form>-->
+            </div>
+        </nav>
+            </div>
+
+
+        <div>
+            <asp:ContentPlaceHolder ID="bodyContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+    </form>
+</body>
+
+<link href="/Content/bootstrap.min.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="/Scripts/bootstrap.min.js"></script>
+
+
+
+
+<footer class="page-footer font-small blue">
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">
+        © 2019 Tratorfix Comércio de Parafusos - Passo Fundo - RS</div>
+    <!-- Copyright -->
+        </div>
+</footer>
+</html>

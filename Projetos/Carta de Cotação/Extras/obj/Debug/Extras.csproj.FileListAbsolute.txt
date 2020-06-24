@@ -1,0 +1,17 @@
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Extras\bin\Debug\Extras.dll
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Extras\bin\Debug\Extras.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.dll
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.pdb
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Extras\bin\Debug\Extras.dll
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Extras\bin\Debug\Extras.pdb
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.dll
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.pdb
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Extras\bin\Debug\Extras.dll
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Extras\bin\Debug\Extras.pdb
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.dll
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.pdb
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Extras\obj\Debug\Extras.csprojAssemblyReference.cache

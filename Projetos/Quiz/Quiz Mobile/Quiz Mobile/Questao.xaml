@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:QuizMobile"
+             x:Class="QuizMobile.Questao">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label x:Name="perg" Text="Pergunta" FontSize="Large" TextColor="Black"/>
+        <Picker x:Name="resList" Title="Resposta" FontSize="Large" TextColor="Black"/>
+        <Button x:Name="proxButton" Text="Próxima" FontSize="Large" Clicked="Prox" TextColor="Black"/>
+        <Label Text=""/>
+        <Label Text=""/>
+        <Label Text=""/>
+        <Image x:Name="img" Source="a.jpg" WidthRequest="750"/>
+    </StackLayout>
+
+</ContentPage>

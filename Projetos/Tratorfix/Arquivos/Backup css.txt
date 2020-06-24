@@ -1,0 +1,26 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Tratorfix.Pages.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Tratorfix</title>
+    <link rel="stylesheet" href="/Content/Styles.css" />
+     <%: System.Web.Optimization.Scripts.Render("~/bundles/validation") %>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header">
+            <SS:CartSummary runat="server" />
+            <div class="title">Tratorfix</div>
+            </div>
+        <div id="categories">
+            <SS:CatLinks runat="server" />
+            </div>
+        <div>
+            <asp:ContentPlaceHolder ID="bodyContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

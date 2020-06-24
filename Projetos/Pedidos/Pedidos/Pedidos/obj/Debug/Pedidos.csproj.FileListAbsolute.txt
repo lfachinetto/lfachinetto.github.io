@@ -1,0 +1,40 @@
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Pedidos.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Pedidos.pdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.MainPage.xaml.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.App.xaml.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.Itens.xaml.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.Editor.xaml.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.dll.mdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Pedidos\Pedidos\Pedidos\bin\Debug\Pedidos.dll.mdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.dll.mdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Pedidos.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Pedidos.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Pedidos.pdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Core.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Core.xml
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.MainPage.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.App.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.Itens.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.Editor.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Debug\Pedidos.pdb

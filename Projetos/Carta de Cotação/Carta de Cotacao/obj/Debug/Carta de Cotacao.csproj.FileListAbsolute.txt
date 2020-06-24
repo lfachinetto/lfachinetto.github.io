@@ -1,0 +1,82 @@
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Carta de Cotacao.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Carta de Cotacao.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Carta de Cotacao.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\AsyncBridge.Net35.dll
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Extras.dll
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\itextsharp.dll
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\System.Threading.dll
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Extras.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\AsyncBridge.Net35.xml
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\itextsharp.xml
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\System.Threading.xml
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Atualizacao.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Home.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Painel.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Sobre.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Informar.resources
+E:\Carta de Cotacao\bin\Debug\Carta de Cotacao.exe.config
+E:\Carta de Cotacao\obj\Debug\Carta de Cotacao.exe
+E:\Carta de Cotacao\obj\Debug\Carta de Cotacao.pdb
+E:\Carta de Cotacao\bin\Debug\Carta de Cotacao.exe
+E:\Carta de Cotacao\bin\Debug\Carta de Cotacao.pdb
+E:\Carta de Cotacao\bin\Debug\AsyncBridge.Net35.dll
+E:\Carta de Cotacao\bin\Debug\Extras.dll
+E:\Carta de Cotacao\bin\Debug\itextsharp.dll
+E:\Carta de Cotacao\bin\Debug\Newtonsoft.Json.dll
+E:\Carta de Cotacao\bin\Debug\System.Threading.dll
+E:\Carta de Cotacao\bin\Debug\Extras.pdb
+E:\Carta de Cotacao\bin\Debug\AsyncBridge.Net35.xml
+E:\Carta de Cotacao\bin\Debug\itextsharp.xml
+E:\Carta de Cotacao\bin\Debug\Newtonsoft.Json.xml
+E:\Carta de Cotacao\bin\Debug\System.Threading.xml
+E:\Carta de Cotacao\obj\Debug\Carta de Cotacao.csprojResolveAssemblyReference.cache
+E:\Carta de Cotacao\obj\Debug\CartaDeCotacao.Informar.resources
+E:\Carta de Cotacao\obj\Debug\CartaDeCotacao.Atualizacao.resources
+E:\Carta de Cotacao\obj\Debug\CartaDeCotacao.Home.resources
+E:\Carta de Cotacao\obj\Debug\CartaDeCotacao.Painel.resources
+E:\Carta de Cotacao\obj\Debug\CartaDeCotacao.Properties.Resources.resources
+E:\Carta de Cotacao\obj\Debug\CartaDeCotacao.Sobre.resources
+E:\Carta de Cotacao\obj\Debug\Carta de Cotacao.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Informar.resources
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Atualizacao.resources
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Home.resources
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Painel.resources
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Properties.Resources.resources
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Sobre.resources
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.exe
+D:\Documentos\Visual Studio 2013\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.pdb
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Carta de Cotacao.exe.config
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Carta de Cotacao.exe
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Carta de Cotacao.pdb
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\AsyncBridge.Net35.dll
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Extras.dll
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\itextsharp.dll
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\System.Threading.dll
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Extras.pdb
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\AsyncBridge.Net35.xml
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\itextsharp.xml
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\bin\Debug\System.Threading.xml
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Informar.resources
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Atualizacao.resources
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Home.resources
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Painel.resources
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\CartaDeCotacao.Sobre.resources
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.exe
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.pdb
+D:\Documentos\Visual Studio 2017\Projects\Carta de Cotacao\Carta de Cotacao\obj\Debug\Carta de Cotacao.csprojAssemblyReference.cache

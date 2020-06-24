@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Website/Tratorfix" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Lucas\\Desktop\\Tratorfix\\Tratorfix\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Lucas\\Desktop\\Tratorfix\\Tratorfix\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="TratorfixContext-Web.config Connection String" description="" value="Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=Tratorfix;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Lucas\\Desktop\\Tratorfix\\Tratorfix\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TratorfixContext']/@connectionString" />
+  </parameter>
+</parameters>

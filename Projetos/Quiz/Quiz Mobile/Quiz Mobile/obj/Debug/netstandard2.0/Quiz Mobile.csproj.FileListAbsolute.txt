@@ -1,0 +1,14 @@
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\bin\Debug\netstandard2.0\Quiz Mobile.deps.json
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\bin\Debug\netstandard2.0\Quiz Mobile.dll
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\bin\Debug\netstandard2.0\Quiz Mobile.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\Quiz Mobile.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\Quiz Mobile.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\Quiz Mobile.AssemblyInfoInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\Quiz Mobile.AssemblyInfo.cs
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\Quiz Mobile.dll
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\Quiz Mobile.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\Questao.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile\obj\Debug\netstandard2.0\Resultado.xaml.g.cs

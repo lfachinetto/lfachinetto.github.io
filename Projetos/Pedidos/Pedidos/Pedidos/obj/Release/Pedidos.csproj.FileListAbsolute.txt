@@ -1,0 +1,38 @@
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Pedidos.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Pedidos.pdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.MainPage.xaml.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.App.xaml.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.Itens.xaml.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.Editor.xaml.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.dll
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.pdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.dll.mdb
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos\bin\Release\Pedidos.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Pedidos.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Pedidos.pdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Core.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Platform.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Xaml.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Core.pdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Core.xml
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Platform.pdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\bin\Release\Xamarin.Forms.Xaml.xml
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.MainPage.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.App.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.Itens.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.Editor.xaml.g.cs
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.dll
+D:\Documentos\Visual Studio 2017\Projects\Pedidos\Pedidos Backup\Pedidos\Pedidos\obj\Release\Pedidos.pdb

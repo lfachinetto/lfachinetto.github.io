@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.Android\obj\Debug\__library_projects__\iTextSharpLGPL-MonoForAndroid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.Android\obj\Debug\__library_projects__\XamiTextSharpLGPL.Droid\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\iTextSharpLGPL-MonoForAndroid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\XamiTextSharpLGPL.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.Android\obj\Debug\__library_projects__\iTextSharpLGPL-MonoForAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.Android\obj\Debug\__library_projects__\XamiTextSharpLGPL.Droid.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

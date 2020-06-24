@@ -1,0 +1,162 @@
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Tratorfix.dll.config
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Tratorfix.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Tratorfix.pdb
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\csc.exe
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\csc.exe.config
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\csc.rsp
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\csi.exe
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\csi.rsp
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\System.AppContext.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\vbc.exe
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\vbc.exe.config
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\vbc.rsp
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\EntityFramework.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\System.Web.Optimization.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\WebGrease.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\EntityFramework.xml
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Newtonsoft.Json.pdb
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\System.Web.Optimization.xml
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\obj\Release\Tratorfix.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\obj\Release\Tratorfix.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\obj\Release\Tratorfix.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\obj\Release\Tratorfix.pdb
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\obj\Release\Tratorfix.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\MySql.Data.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\MySql.Web.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\Google.Protobuf.dll
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\MySql.Data.xml
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Lucas\Desktop\Tratorfix\Tratorfix\bin\MySql.Web.xml
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Tratorfix.dll.config
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Tratorfix.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Tratorfix.pdb
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\csc.exe
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\csc.exe.config
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\csc.rsp
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\csi.exe
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\csi.rsp
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\System.AppContext.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\vbc.exe
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\vbc.exe.config
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\vbc.rsp
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\EntityFramework.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\MySql.Web.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\System.Web.Optimization.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\WebGrease.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\MySql.Data.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Google.Protobuf.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\EntityFramework.xml
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\MySql.Web.xml
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Newtonsoft.Json.pdb
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\System.Web.Optimization.xml
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\bin\MySql.Data.xml
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\obj\Release\Tratorfix.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\obj\Release\Tratorfix.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\obj\Release\Tratorfix.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\obj\Release\Tratorfix.dll
+C:\Users\Lucas\Desktop\Tratorfix\Secondary\Tratorfix\obj\Release\Tratorfix.pdb
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Tratorfix.dll.config
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Tratorfix.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Tratorfix.pdb
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\csc.exe
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\csc.exe.config
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\csc.rsp
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\csi.exe
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\csi.rsp
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\System.AppContext.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\vbc.exe
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\vbc.exe.config
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\vbc.rsp
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\VBCSCompiler.exe
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Antlr3.Runtime.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\EntityFramework.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\EntityFramework.SqlServer.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Newtonsoft.Json.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\System.Web.Optimization.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\WebGrease.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\MySql.Data.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Google.Protobuf.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Antlr3.Runtime.pdb
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\EntityFramework.xml
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\EntityFramework.SqlServer.xml
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\MySql.Web.xml
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Newtonsoft.Json.pdb
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\Newtonsoft.Json.xml
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\System.Web.Optimization.xml
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\bin\MySql.Data.xml
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\obj\Release\Tratorfix.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\obj\Release\Tratorfix.csproj.CopyComplete
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\obj\Release\Tratorfix.dll
+D:\Documentos\Visual Studio 2019\Projects\Tratorfix\Tratorfix\obj\Release\Tratorfix.pdb

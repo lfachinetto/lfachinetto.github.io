@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\Pedidos.UWP.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\App.g.i.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\App.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\MainPage.g.i.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\MainPage.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\App.xaml
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\MainPage.xaml
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\App.xbf
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\MainPage.xbf
+C:\Users\Lucas\Desktop\Pedidos Backup\Pedidos Backup\Pedidos\Pedidos.UWP\obj\x86\Release\XamlSaveStateFile.xml

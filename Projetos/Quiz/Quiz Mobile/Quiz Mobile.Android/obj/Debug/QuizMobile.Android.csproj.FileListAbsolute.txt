@@ -1,0 +1,106 @@
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\Quiz Mobile.Android.dll
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\Quiz Mobile.Android.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\com.companyname.apk
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\com.companyname-Signed.apk
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\QuizMobile.dll
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\QuizMobile.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\QuizMobile.Android.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\QuizMobile.Android.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\XamlC.stamp
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\QuizMobile.Android.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\Quiz Mobile.Android.dll
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\Quiz Mobile.Android.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\bin\com.companyname.apk
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\layout\tabbar.xml
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\layout\toolbar.xml
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\values\styles.xml
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\values\colors.xml
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-hdpi\icon.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-mdpi\icon.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\drawable\logo.jpeg
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\res\drawable\star.gif
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\R.cs.flag
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\R.txt
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\uploadflags.txt
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\Mono.Android.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\mscorlib.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.Core.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.Xml.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.Xml.Linq.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.Net.Http.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.Data.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.Numerics.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.Transactions.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.IO.Compression.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\System.Web.Services.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\Mono.Security.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\Mono.Android.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\mscorlib.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\QuizMobile.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.Core.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.Xml.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.Net.Http.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.Data.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.Numerics.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.Transactions.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\System.Web.Services.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\Mono.Security.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\Quiz Mobile.Android.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\Quiz Mobile.Android.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\Quiz Mobile.Android.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\Mono.Android.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\Mono.Security.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\mscorlib.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\QuizMobile.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.Core.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.Data.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.Net.Http.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.Numerics.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.Transactions.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.Web.Services.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\bin\Debug\Quiz Mobile.Android.dll
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\Quiz Mobile.Android.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\Documentos\Visual Studio 2017\Projects\Quiz\Quiz Mobile\Quiz Mobile.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

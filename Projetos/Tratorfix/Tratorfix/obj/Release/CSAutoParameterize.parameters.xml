@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="TratorfixContext-Web.config Connection String" description="TratorfixContext A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="user id=tratorfix;pwd=Rm3K!!UFI84v;data source=den1.mssql8.gear.host;initial catalog=tratorfix" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Documentos\\Visual\ Studio\ 2019\\Projects\\Tratorfix\\Tratorfix\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TratorfixContext']/@connectionString" />
+  </parameter>
+</parameters>
